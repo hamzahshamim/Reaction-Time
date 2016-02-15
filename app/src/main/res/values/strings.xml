@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ReactionTime</string>
+    <string name="instructions">Wait for the appropriate cue to be presented,
+        and press the appropriate button.\nYou will be presented with visual (sight),
+        auditory (sound), and haptic (touch) cues.
+        A summary of your results will be presented at the end.
+    </string>
+
+</resources>
